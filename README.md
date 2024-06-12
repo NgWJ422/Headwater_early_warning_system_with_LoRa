@@ -1,4 +1,5 @@
 ### Headwater Early Warning System utilizing Long Range (LoRa) technology
+link to Thingspeak: https://thingspeak.com/channels/2553645
 
 #### Headwater and Headwater Incidents
 
