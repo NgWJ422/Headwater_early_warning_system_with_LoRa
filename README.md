@@ -1,10 +1,8 @@
-### Presentation Script for Headwater Early Warning System Project
-
-Good [morning/afternoon/evening], everyone. Today, I am excited to present our project on a headwater early warning system utilizing Long Range (LoRa) technology.
+### Headwater Early Warning System utilizing Long Range (LoRa) technology
 
 #### Headwater and Headwater Incidents
 
-First, let me explain what headwater and headwater incidents are. Headwater refers to the source or upper tributary of a river or stream. A headwater incident occurs when the water levels at these sources rise significantly due to heavy rainfall or other factors, potentially leading to downstream flooding. Such incidents can cause severe damage to infrastructure, disrupt communities, and pose significant risks to lives.
+Headwater refers to the source or upper tributary of a river or stream. A headwater incident occurs when the water levels at these sources rise significantly due to heavy rainfall or other factors, potentially leading to downstream flooding. Such incidents can cause severe damage to infrastructure, disrupt communities, and pose significant risks to lives.
 
 #### Project Overview
 
@@ -79,5 +77,3 @@ In simpler terms, using additional LoRa devices or a LoRaWAN gateway can help us
 ### Conclusion
 
 In conclusion, our headwater early warning system demonstrates the potential of using LoRa technology for remote monitoring. The scalability and use of LoRaWAN gateways make our system versatile and robust, covering vast and remote areas, ensuring that critical data is relayed efficiently and effectively, helping to mitigate risks associated with headwater incidents.
-
-This concludes my presentation. Any further suggestions or questions are welcome. Thank you.
